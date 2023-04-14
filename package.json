@@ -1,0 +1,24 @@
+{
+  "name": "02-penktadienis",
+  "version": "1.0.0",
+  "main": "./ ",
+  "scripts": {
+    "07-uzduotis":"nodemon ./07-uzduotis.js",
+    "06-uzduotis":"nodemon ./06-uzduotis.js",
+    "05-uzduotis":"nodemon ./05-uzduotis.js",
+    "04-uzduotis":"nodemon ./04-uzduotis.js",
+    "03-uzduotis":" nodemon ./03-uzduotis.js",
+    "02-uzduotis":" nodemon ./02-uzduotis.js",
+    "01-uzduotis":" nodemon ./01-uzduotis.js",
+   
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jurgita",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9",
+    "nodemon": "^2.0.22"
+  },
+  "description": ""
+}
